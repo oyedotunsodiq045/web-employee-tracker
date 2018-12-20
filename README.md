@@ -1,4 +1,4 @@
-1: Set Up Database Environment - MySQL Workbench
+# 1: Set Up Database Environment - MySQL Workbench
 
 # Create User - user:sodiq, pwd:sodiq
 CREATE USER 'user'@'localhost' IDENTIFIED BY 'password';
